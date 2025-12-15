@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Ranvir Kumar. I am currently working as a Software Engineer at Invoice Cloud, where my primary focus is on the Site Reliability Engineering (SRE) role. My work involves ensuring system reliability, performance, and scalability by monitoring services, analyzing incidents, and implementing improvements. In addition to my SRE responsibilities, I have a strong interest in full-stack web development, particularly with the MERN stack (MongoDB, Express.js, React, and Node.js). I enjoy exploring mod
+Hi, my name is Ranvir Kumar. I am currently working as a Software Engineer at Invoice Cloud, with experience in full-stack development, DevOps, and automation testing. Strong in JavaScript, TypeScript, React, Node.js, and REST APIs, with hands-on experience in Selenium automation and SRE practices. Passionate about building scalable, reliable systems, writing clean code, and continuously learning new technologies. Enjoys solving real-world problems and contributing to impactful projects.
 
 
 ## 🌐 Socials:
